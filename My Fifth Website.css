@@ -138,7 +138,7 @@ body,p,span,a{
 }
 
 .banner-1{
-    background: url(./image/main-banner2.jpg) no-repeat center center;
+    background: url(main-banner2.jpg) no-repeat center center;
     height: 1100px;
     width: auto;
     margin-left: -350px;
@@ -216,7 +216,7 @@ body,p,span,a{
 .about-img{}
 .about-img img{}
 .about-img-text{
-    background: url(./image/shape.png) no-repeat top center;
+    background: url(shape.png) no-repeat top center;
     height: 200px;
     position: absolute;
     left: -31px;
